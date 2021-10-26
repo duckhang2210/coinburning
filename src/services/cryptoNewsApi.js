@@ -1,5 +1,4 @@
 import { createApi, fetchBaseQuery } from '@reduxjs/toolkit/query/react';
-import { buildQueries } from '@testing-library/dom';
 
 const cryptoNewsHeaders = {
 	'x-bingapis-sdk': 'true',
